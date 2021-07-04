@@ -62,7 +62,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is built as final part of Python Basics Training conducted by EPAM.
+This project is built as a final part of Python Basics Training conducted by EPAM.
 It renders a random people data table using [Randomuser.me](https://randomuser.me/) API. By default quantity of entries is set to 1000, but it can be changed.
 User can create new entry manually, edit or delete existing exntries.
 
@@ -77,9 +77,6 @@ User can create new entry manually, edit or delete existing exntries.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
