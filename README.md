@@ -106,9 +106,15 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use empty field and "Change Number" button at the top of a homepage to change quantity of entries in the table. The exceptable range is 1-5000. Upper limit is dictated by Randomuser.me API restrictions. If number inputted is greater than current number of entries, it will add lacking number (i.e. current entries will not be rewritten).
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Use "Create an entry" button to create an entry manulally. It will become the last entry in the table after creation.
+
+The last column contains links to perosnal pages. From there, you can delete the entry or go to an editing page.
+Go to http://homepage/random to get random person personal page.
+
+Dockerfile and docker-compose.yml files are also added. Make sure to review and redact environmental variables parts of these files before dockerizing. 
+
 
 
 <!-- CONTRIBUTING -->
