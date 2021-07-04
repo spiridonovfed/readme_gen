@@ -72,11 +72,11 @@ User can create new entry manually, edit or delete existing exntries.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+* [FLASK-WTF](https://flask-wtf.readthedocs.io/en/0.15.x/)
+* [Flask-Bootstrap](https://pythonhosted.org/Flask-Bootstrap/)
 
 
 <!-- GETTING STARTED -->
