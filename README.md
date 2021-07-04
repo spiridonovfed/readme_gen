@@ -87,18 +87,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/spiridonovfed/EPAM_Training_Final_Task
    ```
-3. Install NPM packages
+2. Install required packages
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+3. Change config.py (/persons_table/config.py) if neccessary.
+4. Run flask server
+   ```sh
+   flask run
    ```
 
 
